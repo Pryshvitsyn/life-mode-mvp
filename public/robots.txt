@@ -1,0 +1,3 @@
+# Private beta test — no search engine indexing requested.
+User-agent: *
+Disallow: /
